@@ -1,0 +1,124 @@
+{
+  "total_slots": 10,
+  "small_slots": 3,
+  "medium_slots": 3,
+  "large_slots": 4,
+  "slot_array" : [
+    {
+      "reg_no" : "AB-12-XY-1234-Small",
+      "dist" : 1,
+      "size": "small",
+      "time" : "",
+      "cost" : 0
+    },
+    {
+      "reg_no" : "",
+      "dist" : 2,
+      "size": "small",
+      "time" : "",
+      "cost" : 0
+    },
+    {
+      "reg_no" : "",
+      "dist" : 3,
+      "size": "small",
+      "time" : "",
+      "cost" : 0
+    },
+    {
+      "reg_no" : "",
+      "dist" : 4,
+      "size": "medium",
+      "time" : "",
+      "cost" : 0
+    },
+    {
+      "reg_no" : "",
+      "dist" : 5,
+      "size": "medium",
+      "time" : "",
+      "cost" : 0
+    },
+    {
+      "reg_no" : "",
+      "dist" : 6,
+      "size": "medium",
+      "time" : "",
+      "cost" : 0
+    },
+    {
+      "reg_no" : "",
+      "dist" : 7,
+      "size": "large",
+      "time" : "",
+      "cost" : 0
+    },
+    {
+      "reg_no" : "",
+      "dist" : 8,
+      "size": "large",
+      "time" : "",
+      "cost" : 0
+    },
+    {
+      "reg_no" : "",
+      "dist" : 9,
+      "size": "large",
+      "time" : "",
+      "cost" : 0
+    },
+    {
+      "reg_no" : "",
+      "dist" : 10,
+      "size": "large",
+      "time" : "",
+      "cost" : 0
+    }
+  ],
+  "small_array": [
+    {
+      "distance" : 1,
+      "size": "small"
+    },
+    {
+      "distance" : 2,
+      "size": "small"
+    },
+    {
+      "distance" : 3,
+      "size": "small"
+    }
+  ],
+  "medium_array": [
+    {
+      "distance" : 3,
+      "size": "medium"
+    },
+    {
+      "distance" : 4,
+      "size": "medium"
+    },
+    {
+      "distance" : 5,
+      "size": "medium"
+    }
+  ],
+  "large_array": [
+    {
+      "distance" : 6,
+      "size": "large"
+    },
+    {
+      "distance" : 7,
+      "size": "large"
+    },
+    {
+      "distance" : 8,
+      "size": "large"
+    },
+    {
+      "distance" : 9,
+      "size": "large"
+    }
+  ]
+}
